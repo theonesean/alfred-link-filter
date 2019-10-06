@@ -1,0 +1,13 @@
+{
+  "alfredworkflow" : {
+    "category" : "Tools",
+    "readme" : "Pastebomb some text, and this workflow will present all link-like sequences as options for your perusal. \n\nNote: This only supports http\/s links, and I'm pretty sure is good with Unicode, but I haven't thoroughly tested that.",
+    "createdby" : "Sean Bailey",
+    "downloadurl" : "",
+    "version" : "1.0",
+    "bundleid" : "com.theonesean.linkfilter",
+    "description" : "Quickly finds links in pasted text.",
+    "name" : "Link Filter",
+    "webaddress" : "http:\/\/spb.li"
+  }
+}
